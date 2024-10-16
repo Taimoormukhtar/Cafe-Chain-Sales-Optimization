@@ -11,7 +11,7 @@ This data analytics project aimed to uncover sales trends, optimize product offe
 - Analyzing Sales Performance Across Categories
 - Forecasting Sales for next quarter
 - Analyzing the Effects of Discounts on Sale Amount Volume
-- Different Analysis on Dataset(Tableau Dashboard: https://public.tableau.com/views/CafeSalesanalysisDashboard_17290924435120/CafeSaleAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Different Analysis on Dataset(View Tableau Dashboard here: https://public.tableau.com/views/CafeSalesanalysisDashboard_17290924435120/CafeSaleAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Forecasting Sales for the Next 6 Months
 ### 2) Strategic Recommendations and Documentation
 - Formulate Strategic Recommendations
