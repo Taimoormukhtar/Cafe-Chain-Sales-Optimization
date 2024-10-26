@@ -12,7 +12,6 @@ This data analytics project aimed to uncover sales trends, optimize product offe
 - Forecasting Sales for next quarter
 - Analyzing the Effects of Discounts on Sale Amount Volume
 - Different Analysis on Dataset(View Tableau Dashboard here: https://public.tableau.com/views/CafeSalesanalysisDashboard_17290924435120/CafeSaleAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Cafe Sale Analysis Dashboard](https://github.com/user-attachments/assets/0acc8acd-5076-46a7-953e-ec9240d2546e)
 - Forecasting Sales for the Next 6 Months
 
 ### 2) Strategic Recommendations and Documentation
@@ -31,3 +30,6 @@ activities during events to boost sales.
 conditions. Weather is not a factor in Sales growth. 
 - Explore the potential for seasonal factors in future sales by generating more data and to 
 make more accurate forecasts.
+
+### Dashboard Image
+![Cafe Sale Analysis Dashboard](https://github.com/user-attachments/assets/0acc8acd-5076-46a7-953e-ec9240d2546e)
